@@ -1,0 +1,1 @@
+This thing fixes EXIF date data and changes pictures slightly so that one can do something nasty when it comes to evidence for conducted job or something.
